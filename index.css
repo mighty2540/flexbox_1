@@ -1,0 +1,33 @@
+.flex-container{
+    display: flex;
+    justify-content: space-around;
+    border: 3px dotted red;
+}
+.flex-items{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 50px;
+    border: 1px solid #000;
+    color: #fff;
+
+    
+}
+
+.one{
+        background-color: blue;
+    }
+
+.two{
+    background-color: green;
+}
+.three{
+    background-color: yellow;
+}
+.four{
+    background-color: purple;
+}
+.five{
+    background-color: red;
+}
